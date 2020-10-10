@@ -1,1 +1,1 @@
-# linkages_volatility_study
+# volatility_prediction_study
